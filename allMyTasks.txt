@@ -1,0 +1,4 @@
+0;dev;important
+2;crea;faible
+3;math;moyen
+4;science;faible
